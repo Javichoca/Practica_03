@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_mapa"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="@string/Menu_mapa" />
+    <item
+        android:id="@+id/menu_camara"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/Menu_camara" />
+    <item
+        android:id="@+id/menu_informacion"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="@string/Menu_informacion" />
+</menu>

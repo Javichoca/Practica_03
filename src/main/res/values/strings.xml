@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Centro Comercial</string>
+    <string name="version">Versión 1.0.0</string>
+    <string name="image">Versión 1.0.0</string>
+    <string name="descripcion">Bienvenidos A mi Sistema</string>
+    <string name="descripcion1">Mi Sistema</string>
+    <string name="titulo">Nombre Del Producto</string>
+    <string name="buton1">Agregar Foto</string>
+    <string name="buton2">Agregar Direccion</string>
+    <string name="buton3">Registrar Producto</string>
+    <string name="buton4">Login</string>
+    <string name="Mapeo">MapasGoogle</string>
+    <string name="Menu_mapa">Mapa</string>
+    <string name="Menu_camara">Camara</string>
+    <string name="Menu_informacion">Informacion</string>
+    <string name="Menu_informacion1">Informacion de la Empresa Comercial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

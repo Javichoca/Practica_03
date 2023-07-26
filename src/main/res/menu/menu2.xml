@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/pokemonListFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_centro_logo"
+        android:title="Artistas" />
+
+    <item
+        android:id="@id/pokemonVideosFragment"
+        android:enabled="true"
+        android:icon="@drawable/video"
+        android:title="My favorite" />
+
+    <item
+        android:id="@id/infoPokemonFragment"
+        android:enabled="true"
+        android:icon="@drawable/informacion__1_"
+        android:title="Info" />
+</menu>
